@@ -93,7 +93,7 @@ address = {street = "205, Cnerg Lab, CSE Dept, IIT Kharagpur", city = "Kharagpur
 coordinates = {latitude = "22.317746", longitude = "87.309105"}
 
 # Directions for visitors to locate you.
-directions = "Enter the Computer Science and Engineering Dept and goto Room No. 205 on first floor."
+# directions = "Enter the Computer Science and Engineering Dept and goto Room No. 205 on first floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
